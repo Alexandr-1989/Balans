@@ -3,6 +3,8 @@
 Установите и настройте HAProxy, воспользуйтесь материалами к лекции по ссылке
 Настройте балансировку Round-robin на 4 уровне.
 На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
+
+
 haproxy.cfg
 
 ```
@@ -75,4 +77,6 @@ listen web_tcp
         server s1 127.0.0.1:8888 check inter 3s
         server s2 127.0.0.1:9999 check inter 3s
 ```
+<img width="509" height="310" alt="Screenshot_11" src="https://github.com/user-attachments/assets/af8a2121-198e-4180-8493-0d8fbcfaa8c9" />
+<img width="3159" height="778" alt="Screenshot_12" src="https://github.com/user-attachments/assets/1d93142c-6444-4454-b761-808036ae0076" />
 
