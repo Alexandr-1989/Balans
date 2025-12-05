@@ -8,9 +8,9 @@
 
 [haproxy.cfg](https://github.com/Alexandr-1989/Balans/blob/main/files/haproxy_1.cfg)
 
+<img width="475" height="346" alt="1" src="https://github.com/user-attachments/assets/d738b2df-9163-4575-8368-191120063422" />
+<img width="3114" height="793" alt="stats1" src="https://github.com/user-attachments/assets/bba831fa-55d8-42e3-8b86-51242cdde529" />
 
-<img width="509" height="310" alt="Screenshot_11" src="https://github.com/user-attachments/assets/af8a2121-198e-4180-8493-0d8fbcfaa8c9" />
-<img width="3159" height="778" alt="Screenshot_12" src="https://github.com/user-attachments/assets/1d93142c-6444-4454-b761-808036ae0076" />
 
 Задание 2
 Запустите три simple python сервера на своей виртуальной машине на разных портах
@@ -22,5 +22,6 @@ HAproxy должен балансировать только тот http-тра�
 
 [haproxy.cfg](https://github.com/Alexandr-1989/Balans/blob/main/files/haproxy_2.cfg)
 
-<img width="552" height="527" alt="Screenshot_13" src="https://github.com/user-attachments/assets/733b2c87-0ff8-4fc3-85ac-afa74edd724d" />
-<img width="3160" height="668" alt="Screenshot_14" src="https://github.com/user-attachments/assets/11fd349d-13af-4f35-982e-d2104f340b02" />
+<img width="452" height="802" alt="2" src="https://github.com/user-attachments/assets/cdeacef2-10dd-40f0-ba98-32997fb50b00" />
+<img width="3104" height="689" alt="stats2" src="https://github.com/user-attachments/assets/f5d3acf3-7f59-4361-ab95-ce02b8c2cc98" />
+
