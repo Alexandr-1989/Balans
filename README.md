@@ -25,6 +25,7 @@ HAproxy должен балансировать только тот http-тра�
 
 [haproxy.cfg](https://github.com/Alexandr-1989/Balans/blob/main/files/haproxy_2.cfg)
 
-<img width="452" height="802" alt="2" src="https://github.com/user-attachments/assets/cdeacef2-10dd-40f0-ba98-32997fb50b00" />
-<img width="3104" height="689" alt="stats2" src="https://github.com/user-attachments/assets/f5d3acf3-7f59-4361-ab95-ce02b8c2cc98" />
+<img width="451" height="524" alt="Screenshot_7" src="https://github.com/user-attachments/assets/8bb70e9e-faed-46d6-8689-d237bbc26729" />
+<img width="3157" height="662" alt="Screenshot_9" src="https://github.com/user-attachments/assets/8e41fecf-797d-4fb7-8698-5c84de8cbcab" />
+
 
