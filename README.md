@@ -8,8 +8,11 @@
 
 [haproxy.cfg](https://github.com/Alexandr-1989/Balans/blob/main/files/haproxy_1.cfg)
 
-<img width="3154" height="677" alt="Screenshot_5" src="https://github.com/user-attachments/assets/4a3c6658-b4b9-4275-9bca-c725cd87ebe6" />
-<img width="3114" height="793" alt="stats1" src="https://github.com/user-attachments/assets/bba831fa-55d8-42e3-8b86-51242cdde529" />
+<img width="418" height="402" alt="Screenshot_6" src="https://github.com/user-attachments/assets/7f0fc0ea-ef36-421c-bdcc-0f8dda2dbb97" />
+<img width="3154" height="677" alt="Screenshot_5" src="https://github.com/user-attachments/assets/2cd57a4b-d608-4876-ae2a-512ea248af80" />
+
+
+
 
 
 Задание 2
