@@ -8,7 +8,7 @@
 
 [haproxy.cfg](https://github.com/Alexandr-1989/Balans/blob/main/files/haproxy_1.cfg)
 
-<img width="475" height="346" alt="1" src="https://github.com/user-attachments/assets/d738b2df-9163-4575-8368-191120063422" />
+<img width="3154" height="677" alt="Screenshot_5" src="https://github.com/user-attachments/assets/4a3c6658-b4b9-4275-9bca-c725cd87ebe6" />
 <img width="3114" height="793" alt="stats1" src="https://github.com/user-attachments/assets/bba831fa-55d8-42e3-8b86-51242cdde529" />
 
 
